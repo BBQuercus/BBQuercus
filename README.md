@@ -50,7 +50,7 @@
 <br />
 <br />
 
-<img alt="BBQuercus's github stats" src="https://github-readme-stats.vercel.app/api?username=bbquercus&show_icons=true&hide_border=true&count_private=true" />
+<!-- <img alt="BBQuercus's github stats" src="https://github-readme-stats.vercel.app/api?username=bbquercus&show_icons=true&hide_border=true&count_private=true" /> -->
 
 [website]: https://bastianeichenberger.ch
 [mail]: mailto:mail@bastianeichenberger.ch?subject=GitHub%20Connect
