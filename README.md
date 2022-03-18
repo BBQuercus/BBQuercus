@@ -5,11 +5,11 @@
 ### I'm a Biologist, Developer, and Learner!
 
 - 🔭 I’m currently working on deep-learning based detection of diffraction limited spots
-- 🌱 I’m currently learning distributed computing
+- 🌱 I’m currently learning RNASeq analysis
 - 💬 Ask me about anything, I'm happy to help
 - 🪐 Looking forward to more accessible space travel, going to Mars, and nuclear fusion
 - ⚡ Fun fact: I'm one of the youngest (European) students, having completed my Master in Molecular Biology at 19
-- 📝 [Resume](https://www.bastianeichenberger.ch/resume.pdf)
+- 📝 [Resume](https://new.bastianeichenberger.ch/wp-content/uploads/2021/11/resume.pdf?_ga=2.104045317.469961835.1647600831-1965827343.1647272442&_gl=1*3g315r*_ga*MTk2NTgyNzM0My4xNjQ3MjcyNDQy*_ga_KWV3C4D076*MTY0NzYxNDYxNS4zLjEuMTY0NzYxNDcxMi4w)
 
 
 ##### Connect with me using the links below
