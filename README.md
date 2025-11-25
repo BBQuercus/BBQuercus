@@ -1,35 +1,41 @@
-## Hi there, I'm Bastian - aka [BBQuercus][website] 👋
+## Hi there, I'm Bastian — aka [BBQuercus][website] 👋
 
 ### I'm a Biologist, Developer, and Learner!
 
-- 🔭 I’m currently working on improving tooling with LLMs
-- 🌱 I’m currently learning about cloud deployments
-- 💬 Ask me about anything, I'm happy to help
-- 🪐 Looking forward to more accessible space travel, going to Mars, and nuclear fusion
-- ⚡ Fun fact: I'm one of the youngest (European) students, having completed my PhD in Computational Biology at 22
+- 🔭 Improving tooling with LLMs  
+- 🌱 Learning more about cloud deployments  
+- 💬 Happy to chat about anything  
+- 🪐 Big fan of space travel, Mars missions, and nuclear fusion  
+- ⚡ Fun fact: I completed my PhD in Computational Biology at 22  
 
-##### Connect with me using the links below
+### Connect with me
 
-[<img align="left" alt="bastianeichenberger.ch" height="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="BBQuercus | Mail" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
-[<img align="left" alt="BBQuercus | LinkedIn" height="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
+[![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=icloud&logoColor=white)][website]
+[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)][mail]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
 
-##### Technologies I use
 
-<img align="left" alt="Python" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" />
-<img align="left" alt="Numpy" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/numpy.svg" />
-<img align="left" alt="Pandas" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pandas-icon.svg" />
-<img align="left" alt="Tensorflow" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tensorflow.svg" />
-<img align="left" alt="Pytorch" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pytorch-icon.svg" />
-<img align="left" alt="Tailwind" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tailwindcss-icon.svg" />
-<img align="left" alt="Gatsby" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gatsby.svg" />
-<img align="left" alt="Vercel" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/vercel-icon.svg" />
-<img align="left" alt="OpenAI" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/openai-icon.svg" />
-<img align="left" alt="MySQL" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql-icon.svg" />
+### Technologies I Use
 
-<!-- <img alt="BBQuercus's github stats" src="https://github-readme-stats.vercel.app/api?username=bbquercus&show_icons=true&hide_border=true&count_private=true" /> -->
+<p align="left">
+  <img alt="Python" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" />
+  <img alt="NumPy" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/numpy.svg" />
+  <img alt="Pandas" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pandas-icon.svg" />
+  <img alt="TensorFlow" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tensorflow.svg" />
+  <img alt="PyTorch" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pytorch-icon.svg" />
+  
+  <img alt="AWS" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg" />
+  <img alt="Kubernetes" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kubernetes.svg" />
+  <img alt="Grafana" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/grafana.svg" />
+  <img alt="Kafka" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kafka-icon.svg" />
+  <img alt="PostgreSQL" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/postgresql.svg" />
 
-[website]: https://bastianeichenberger.ch
-[mail]: mailto:mail@bastianeichenberger.ch?subject=GitHub%20Connect
+  <img alt="FastAPI" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/fastapi.svg" />
+  <img alt="Railway" height="30" src="https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white" />
+  <img alt="OpenAI" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/openai-icon.svg" />
+  <img alt="Claude" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/anthropic-icon.svg" />
+</p>
+
+[website]: https://bastianeichenberger.ch  
+[mail]: mailto:mail@bastianeichenberger.ch?subject=GitHub%20Connect  
 [linkedin]: https://www.linkedin.com/in/bastian-eichenberger
