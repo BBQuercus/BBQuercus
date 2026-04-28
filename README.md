@@ -1,6 +1,6 @@
-## Hi there, I'm Bastian — aka [BBQuercus][website] 👋
+# Hi there, I'm Bastian 👋
 
-### I'm a Biologist, Developer, and Learner!
+_Biologist, developer, and learner._
 
 - 🔭 Improving tooling with LLMs (OpenAI, Anthropic)
 - 🌱 Learning more about cloud deployments
